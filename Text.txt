@@ -1,3 +1,6 @@
 https://marketplace.visualstudio.com/items?itemName=sketchbuch.vsc-quokka-statusbar
 https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode
 https://medium.com/factory-mind/regex-tutorial-a-simple-cheatsheet-by-examples-649dc1c3f285
+https://marketplace.visualstudio.com/items?itemName=xabikos.JavaScriptSnippets
+https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig   
+https://marketplace.visualstudio.com/items?itemName=joelday.docthiss
