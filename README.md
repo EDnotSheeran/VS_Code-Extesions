@@ -1,1 +1,3 @@
-# VS_Code-Extesions
+# VS Code
+
+[Themes](Themes.md)
